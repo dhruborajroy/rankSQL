@@ -1,0 +1,13 @@
+[
+{"type":"header","version":"4.9.7","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"ibrahim2_bus"},
+{"type":"table","name":"students","database":"ibrahim2_bus","data":
+[
+{"id":"1","name":"Sou","physics":"90","chemistry":"88","math":"90","merit":"2"},
+{"id":"2","name":"Arp ","physics":"89","chemistry":"95","math":"95","merit":"3"},
+{"id":"3","name":"Roy ","physics":"9","chemistry":"98","math":"89","merit":"5"},
+{"id":"4","name":"dnck","physics":"55","chemistry":"60","math":"89","merit":"4"},
+{"id":"5","name":"dfvd","physics":"90","chemistry":"91","math":"92","merit":"1"}
+]
+}
+]
